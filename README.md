@@ -46,7 +46,7 @@ This repository serves as:
 1.
   i. Clone the repository
    ```bash
-   git clone https://github.com/your-username/python-learning.git
+   git clone https://github.com/niharsarkartirtho/Python_Basic.git
    ```
   ii. Open in Jupyter Notebook in vs code if(jupyter extension is available)
    ```bash
